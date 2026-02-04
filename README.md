@@ -43,3 +43,10 @@ DBSCAN failed to distinguish rhythmic motion artifacts from clean signals. As sh
 ## Full Report
 
 For detailed methodology and analysis, please refer to the [Project Report](Report_Unsupervised_PPG_Denoising.pdf).
+
+---
+**Author:** Wei Heng (M.S. Candidate in Biomedical Engineering, CYCU)
+
+**Focus:** System Programming, Embedded Systems, Edge AI
+
+
