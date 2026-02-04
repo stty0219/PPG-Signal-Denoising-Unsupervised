@@ -41,4 +41,5 @@ DBSCAN failed to distinguish rhythmic motion artifacts from clean signals. As sh
 * **DBSCAN Failure Analysis:** DBSCAN failed to distinguish rhythmic motion artifacts (e.g., walking) from clean signals due to the continuous gradient distribution of physiological signal features in the feature space.
 
 ## Full Report
-For detailed methodology and analysis, please refer to the [Project Report](Final書面.pdf).
+
+For detailed methodology and analysis, please refer to the [Project Report](Report_Unsupervised_PPG_Denoising.pdf).
